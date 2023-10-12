@@ -1,0 +1,6 @@
+﻿  ConditionStatements.cpp
+F:\PRODUCTOR\CODING\Practice\Practice\ConditionStatements.cpp(32,5): error C2084: function 'int main(void)' already has a body
+F:\PRODUCTOR\CODING\Practice\Practice\ConditionStatements.cpp(9,5): message : see previous definition of 'main'
+  VariablesAndMaths.cpp
+F:\PRODUCTOR\CODING\Practice\Practice\VariablesAndMaths.cpp(40,1): fatal  error C1071: unexpected end of file found in comment
+  Generating Code...
