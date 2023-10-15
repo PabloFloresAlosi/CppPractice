@@ -4,7 +4,7 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 //LOOPING
 void ProbandoFunction() {
     std::cout << "The value is : " << endl;

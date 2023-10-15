@@ -4,7 +4,7 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 // ARRAY it uses [how many values can store]
 // Be careful about the ammount of element lives in the Array and which is the Size we ask for. I can use numbers, names, anything
 // Intead of "a" I can put "names". Insted of numbers I can put nuames

@@ -131,6 +131,7 @@
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="ConditionStatements.cpp" />
     <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="GuessTheNumer-MiniGame.cpp" />
     <ClCompile Include="Looping.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Pointers.cpp" />

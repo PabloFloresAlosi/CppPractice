@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-
+/*
 //Here we are going to implement the variables and functions that we declare in .h
 //This are the Constructer that we are going to call in the MAIN Objects and Instances
 

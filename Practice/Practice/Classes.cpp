@@ -4,7 +4,7 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 //CLASES with variables publics and prtivate
 
 class Player {

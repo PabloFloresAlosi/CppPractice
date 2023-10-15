@@ -178,7 +178,7 @@ int main()
     //wizard.magic = 3; VARIABLE privada
     cout << "The power is: " << wizard.power;
 }
-*/
+
 //CLASSES para UNREAL se crean haciendo click en Add >> Class
 
 int main()

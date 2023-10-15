@@ -4,7 +4,7 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 // POINTERS - call the value in the MEMORY, NOT the assigned value
 int main()
 {

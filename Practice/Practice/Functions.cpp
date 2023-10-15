@@ -4,7 +4,7 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 //Functions. it has to be created above the main so the mains knows about his existance
 
 //it does not return valie

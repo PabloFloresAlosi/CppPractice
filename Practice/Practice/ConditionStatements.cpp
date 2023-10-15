@@ -4,8 +4,9 @@
 #include "Player.h"
 
 using namespace std;
-
+/*
 //CONDITIONAL STATEMENTS IF
+
 int main()
 {
     int a = 5;

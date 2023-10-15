@@ -1,6 +1,20 @@
-﻿  ConditionStatements.cpp
-F:\PRODUCTOR\CODING\Practice\Practice\ConditionStatements.cpp(32,5): error C2084: function 'int main(void)' already has a body
-F:\PRODUCTOR\CODING\Practice\Practice\ConditionStatements.cpp(9,5): message : see previous definition of 'main'
+﻿  Array.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Array.cpp(21,1): fatal  error C1071: unexpected end of file found in comment
+  Classes.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Classes.cpp(61,1): fatal  error C1071: unexpected end of file found in comment
+  ConditionStatements.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\ConditionStatements.cpp(62,1): fatal  error C1071: unexpected end of file found in comment
+  Functions.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Functions.cpp(26,1): fatal  error C1071: unexpected end of file found in comment
+  GuessTheNumer-MiniGame.cpp
+  Looping.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Looping.cpp(20,1): fatal  error C1071: unexpected end of file found in comment
+  Player.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Player.cpp(45,1): fatal  error C1071: unexpected end of file found in comment
+  Pointers.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Pointers.cpp(37,1): fatal  error C1071: unexpected end of file found in comment
+  Practice.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\Practice.cpp(219,1): fatal  error C1071: unexpected end of file found in comment
   VariablesAndMaths.cpp
-F:\PRODUCTOR\CODING\Practice\Practice\VariablesAndMaths.cpp(40,1): fatal  error C1071: unexpected end of file found in comment
+D:\PROGRAMAS (512)\CODING\CppPractice\Practice\Practice\VariablesAndMaths.cpp(40,1): fatal  error C1071: unexpected end of file found in comment
   Generating Code...
