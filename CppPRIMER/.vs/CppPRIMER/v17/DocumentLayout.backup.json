@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BFD6908-8F0A-4E8B-8B29-5E7798138379}|CppPRIMER.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CppPRIMER\\CppPRIMER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BFD6908-8F0A-4E8B-8B29-5E7798138379}|CppPRIMER.vcxproj|solutionrelative:CppPRIMER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFD6908-8F0A-4E8B-8B29-5E7798138379}|CppPRIMER.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CppPRIMER\\Cuadratica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BFD6908-8F0A-4E8B-8B29-5E7798138379}|CppPRIMER.vcxproj|solutionrelative:Cuadratica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadratica.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CppPRIMER\\Cuadratica.cpp",
+              "RelativeDocumentMoniker": "Cuadratica.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CppPRIMER\\Cuadratica.cpp",
+              "RelativeToolTip": "Cuadratica.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T20:54:16.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "CppPRIMER.cpp",
               "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CppPRIMER\\CppPRIMER.cpp",
               "RelativeToolTip": "CppPRIMER.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-22T13:46:40.322Z",
               "EditorCaption": ""

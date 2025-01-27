@@ -18,5 +18,11 @@
     <ClCompile Include="CppPRIMER.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Cuadratica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PiggyDollars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
