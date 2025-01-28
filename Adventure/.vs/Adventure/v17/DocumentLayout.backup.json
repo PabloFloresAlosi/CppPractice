@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680E37D6-697A-48D6-B152-65257D8E6976}|Adventure.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text-adventure.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp",
+              "RelativeDocumentMoniker": "..\\text-adventure-solution\\text-adventure.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp*",
+              "RelativeToolTip": "..\\text-adventure-solution\\text-adventure.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T13:25:34.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

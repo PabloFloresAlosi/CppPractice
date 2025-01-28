@@ -21,7 +21,7 @@ int main() {
     std::cout << "*      *      *\n";
     std::cout << "What do you do?\n";
 
-    char choice1;
+    int choice1;
     
     for (int i = 0; i < 3 && choice1 != 'A' && choice1 != 'B' && choice1 != 'C'; i++) {
 

@@ -1,0 +1,6 @@
+﻿  text-adventure.cpp
+D:\PROGRAMAS (512)\CODING\CppPractice\text-adventure-solution\text-adventure.cpp(26,1): error C4700: uninitialized local variable 'choice1' used
+D:\PROGRAMAS (512)\CODING\CppPractice\text-adventure-solution\text-adventure.cpp(82,1): error C4700: uninitialized local variable 'choice2' used
+D:\PROGRAMAS (512)\CODING\CppPractice\text-adventure-solution\text-adventure.cpp(120,1): error C4700: uninitialized local variable 'choice3' used
+D:\PROGRAMAS (512)\CODING\CppPractice\text-adventure-solution\text-adventure.cpp(154,1): error C4700: uninitialized local variable 'choice4' used
+D:\PROGRAMAS (512)\CODING\CppPractice\text-adventure-solution\text-adventure.cpp(192,1): error C4700: uninitialized local variable 'choice5' used
