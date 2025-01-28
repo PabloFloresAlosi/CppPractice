@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CodeAcademy.cpp" />
+    <ClCompile Include="DogAge.cpp" />
+    <ClCompile Include="HarryPotter.cpp" />
+    <ClCompile Include="Magic8Ball.cpp" />
+    <ClCompile Include="RockPaperScissors.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

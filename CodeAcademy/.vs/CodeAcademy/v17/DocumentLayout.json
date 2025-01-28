@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\CodeAcademy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|solutionrelative:CodeAcademy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\HarryPotter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|solutionrelative:HarryPotter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\Magic8Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|solutionrelative:Magic8Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\RockPaperScissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC40D016-A9AE-4FD5-9EB7-3DD841BEBDB6}|CodeAcademy.vcxproj|solutionrelative:RockPaperScissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +34,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CodeAcademy.cpp",
-              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\CodeAcademy.cpp",
-              "RelativeDocumentMoniker": "CodeAcademy.cpp",
-              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\CodeAcademy.cpp",
-              "RelativeToolTip": "CodeAcademy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "text-adventure.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp",
+              "RelativeDocumentMoniker": "..\\text-adventure-solution\\text-adventure.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\text-adventure-solution\\text-adventure.cpp",
+              "RelativeToolTip": "..\\text-adventure-solution\\text-adventure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T12:40:07.082Z",
+              "WhenOpened": "2025-01-28T13:19:59.865Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HarryPotter.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\HarryPotter.cpp",
+              "RelativeDocumentMoniker": "HarryPotter.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\HarryPotter.cpp",
+              "RelativeToolTip": "HarryPotter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T10:34:39.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magic8Ball.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\Magic8Ball.cpp",
+              "RelativeDocumentMoniker": "Magic8Ball.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\Magic8Ball.cpp",
+              "RelativeToolTip": "Magic8Ball.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T10:33:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RockPaperScissors.cpp",
+              "DocumentMoniker": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\RockPaperScissors.cpp",
+              "RelativeDocumentMoniker": "RockPaperScissors.cpp",
+              "ToolTip": "D:\\PROGRAMAS (512)\\CODING\\CppPractice\\CodeAcademy\\RockPaperScissors.cpp",
+              "RelativeToolTip": "RockPaperScissors.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T10:24:09.827Z"
             }
           ]
         }
